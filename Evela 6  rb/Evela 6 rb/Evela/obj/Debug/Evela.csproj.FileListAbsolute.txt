@@ -1,0 +1,40 @@
+C:\Users\Yarik\source\repos\Evela\Evela\bin\Debug\Evela.exe.config
+C:\Users\Yarik\source\repos\Evela\Evela\bin\Debug\Evela.exe
+C:\Users\Yarik\source\repos\Evela\Evela\bin\Debug\Evela.pdb
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.csprojAssemblyReference.cache
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.Form1.resources
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.Properties.Resources.resources
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.csproj.GenerateResource.cache
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.csproj.CoreCompileInputs.cache
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.exe
+C:\Users\Yarik\source\repos\Evela\Evela\obj\Debug\Evela.pdb
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\bin\Debug\Evela.exe.config
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\bin\Debug\Evela.exe
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\bin\Debug\Evela.pdb
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.csprojAssemblyReference.cache
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.Form1.resources
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.Properties.Resources.resources
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.csproj.GenerateResource.cache
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.csproj.CoreCompileInputs.cache
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.exe
+C:\Users\fgs09\OneDrive\Desktop\Evela\Evela\obj\Debug\Evela.pdb
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\bin\Debug\Evela.exe.config
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\bin\Debug\Evela.exe
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\bin\Debug\Evela.pdb
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.csprojAssemblyReference.cache
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.Form1.resources
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.Properties.Resources.resources
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.csproj.GenerateResource.cache
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.csproj.CoreCompileInputs.cache
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.exe
+C:\Users\fgs09\OneDrive\Desktop\Производственная практика\Evela\Evela\obj\Debug\Evela.pdb
+C:\Users\fgs09\Downloads\Evela\Evela\bin\Debug\Evela.exe.config
+C:\Users\fgs09\Downloads\Evela\Evela\bin\Debug\Evela.exe
+C:\Users\fgs09\Downloads\Evela\Evela\bin\Debug\Evela.pdb
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.csprojAssemblyReference.cache
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.Form1.resources
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.Properties.Resources.resources
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.csproj.GenerateResource.cache
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.csproj.CoreCompileInputs.cache
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.exe
+C:\Users\fgs09\Downloads\Evela\Evela\obj\Debug\Evela.pdb
